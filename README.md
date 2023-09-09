@@ -13,7 +13,7 @@ Breakout Game: A tribute to the classic Breakout game. Enjoy the timeless gamepl
 </div>
 
 ## Demo
-[![YouTube Video](https://img.https://youtu.be/rCkQ_khmGs0.jpg)](https://youtu.be/rCkQ_khmGs0)
+[![YouTube Video](https://img.youtube.com/vi/rCkQ_khmGs0/0.jpg)](https://youtu.be/rCkQ_khmGs0)
 
 ## Technologies Used
 
