@@ -15,6 +15,10 @@ Breakout Game: A tribute to the classic Breakout game. Enjoy the timeless gamepl
 ## Demo
 [![YouTube Video](https://img.youtube.com/vi/rCkQ_khmGs0/0.jpg)](https://youtu.be/rCkQ_khmGs0)
 
+## More About the Project
+
+I have learned to use different arrays and memory handling. I employed arrays for managing the blocks and falling gems. To ensure variety, I implemented a random number generator for the gems. This generator ensures that even if a gem with a specific number is already falling, the code will allow another gem with a different number to spawn, preventing duplicates and ensuring a continuous flow of unique gems.
+
 ## Technologies Used
 
 - C++
